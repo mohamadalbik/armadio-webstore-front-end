@@ -1,0 +1,44 @@
+.insta {
+    border-radius: 15px;
+    width: 70%;
+    height: 25vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    padding: 0px 140px;
+    margin-bottom: 150px;
+    background: linear-gradient(180deg, #bc894193, #e1ffea22 60%);
+    gap: 30px;
+}
+
+.insta h1 {
+    padding-top: 30px;
+    color: #454545;
+    font-size: 55px;
+    font-weight: 600;
+}
+
+.insta h3 {
+    color: #454545;
+    font-size: 25px;
+}
+
+.insta div {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.insta div img {
+    width: 60px;
+    height: 60px;
+    border: 1px solid none;
+    border-radius: 15px;
+}
+
+.insta img:hover {
+    transform: scale(1.5);
+    transition: 0.6s;
+}
