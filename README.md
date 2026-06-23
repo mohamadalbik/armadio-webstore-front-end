@@ -63,7 +63,6 @@ react-webstore/
 │   ├── App.js
 │   └── index.js
 ├── package.json
-└── screenshots/
 ```
 
 ## Notes
