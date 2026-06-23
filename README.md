@@ -11,7 +11,7 @@ A modern e-commerce frontend built with React and Bootstrap. This project provid
 
 ## Video 
 
-<video src="https://github.com/mohamadalbik/armadio-webstore-front-end/blob/master/.vid/Armadio%20-%20Google%20Chrome%202025-02-27%2006-16-35.mp4" width="640" height="360" controls></video>
+<video src="https://github.com/mohamadalbik/armadio-webstore-front-end/blob/master/.vid/Armadio%20-%20Google%20Chrome%202025-02-27%2006-16-35.mp4" width="640" height="360" controls>
 
 ## Technologies
 
